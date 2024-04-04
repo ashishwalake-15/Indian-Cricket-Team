@@ -1,0 +1,25 @@
+button{
+    padding: 30px;
+    background: none;
+    border: none;
+}
+.current_squad{
+    background-color: rgb(248, 245, 245);
+}
+
+.view{
+    background-color: rgb(249, 247, 253);
+}
+
+.Contact{
+    background-color: rgb(252, 252, 252);
+}
+
+.Social{
+    background-color: rgb(246, 249, 248);
+}
+
+button:hover{
+    border: 2px solid rgb(239, 234, 234);
+    cursor: pointer;
+}
